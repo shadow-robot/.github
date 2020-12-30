@@ -1,22 +1,23 @@
 ## Proposed changes
 
-Please explain the changes you made. Add pictures or videos to explain them better if appropriate.
-
-## Types of changes
-
-What types of changes does your code introduce?
-
-- [ ] Bugfix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+Please explain the changes you made. Add pictures or videos to explain them better if appropiate.
 
 ## Checklist
 
-Put an x in the boxes that apply. You can also fill these out after creating the PR. This is a reminder of what we should look for before merging this code.
+Put an x in the boxes that apply. Make sure that **ALL** the boxes are checked **BEFORE** the PR is merged.
 
-- [ ] Read and follow the [contributing guidelines](https://github.com/shadow-robot/sr_documentation/blob/master/CONTRIBUTING.md).
-- [ ] Checked that all tests pass with my changes
-- [ ] Added tests (automatic or manual) that prove the fix is effective or that the feature works
-- [ ] Added necessary documentation (if appropriate)
-- [ ] Added the corresponding license to each file and add the current year of any one that you modified.
-- [ ] Tested on real hardware (if appropriate)
+- [ ] Checked that the PR has been reviewed by members of both team alpha and team omega from Shadow Software team.
+- [ ] Manually tested that added code works as intended (if applicable).
+- [ ] Added automated tests (if applicable).
+- [ ] Added documentation (if applicable).
+- [ ] Tested on real hardware (if applicable).
+
+## Applicability criteria
+
+Manual testing: if any functional/runnable code is added
+
+Automated tests: if a new class is added (Python or C++), interface of that class needs to be unit tested.
+
+Documentation: For any new feature, explain what it does and how to use it. Write the documentation in a relevant space (Github, Confluence, etc.).
+
+Testing on real hardware: if the changed or added code is used with the real hardware.
