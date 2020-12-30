@@ -1,6 +1,6 @@
 ## Proposed changes
 
-Please explain the changes you made. Add pictures or videos to explain them better if appropiate.
+Please explain the changes you made. Add pictures or videos to explain them better if appropriate.
 
 ## Types of changes
 
