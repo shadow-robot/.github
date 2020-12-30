@@ -12,7 +12,7 @@ What types of changes does your code introduce?
 
 ## Checklist
 
-Put an x in the boxes that apply. You can also fill these out after creating the PR. This is a reminder of what we should look for before merging this code. I have:
+Put an x in the boxes that apply. You can also fill these out after creating the PR. This is a reminder of what we should look for before merging this code.
 
 - [ ] Read and follow the [contributing guidelines](https://github.com/shadow-robot/sr_documentation/blob/master/CONTRIBUTING.md).
 - [ ] Checked that all tests pass with my changes
