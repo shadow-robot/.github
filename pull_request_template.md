@@ -4,20 +4,19 @@ Please explain the changes you made. Add pictures or videos to explain them bett
 
 ## Checklist
 
-Put an x in the boxes that apply. Make sure that **ALL** the boxes are checked **BEFORE** the PR is merged.
+If the task is applicable to this pull request (see "Applicability criteria" below), make sure it is completed before checking the corresponding box. Otherwise, tick the box right away. Make sure that **ALL** boxes are checked **BEFORE** the PR is merged.
 
-- [ ] Checked that the PR has been reviewed by members of both team alpha and team omega from Shadow Software team.
-- [ ] Manually tested that added code works as intended (if applicable).
-- [ ] Added automated tests (if applicable).
-- [ ] Added documentation (if applicable).
-- [ ] Tested on real hardware (if applicable).
+- [ ] Manually tested that added code works as intended.
+- [ ] Added automated tests.
+- [ ] Tested on real hardware.
+- [ ] Added documentation.
 
 ## Applicability criteria
 
 Manual testing: if any functional/runnable code is added
 
-Automated tests: if a new class is added (Python or C++), interface of that class needs to be unit tested.
-
-Documentation: For any new feature, explain what it does and how to use it. Write the documentation in a relevant space (Github, Confluence, etc.).
+Automated tests: if a new class is added (Python or C++), interface of that class must be unit tested.
 
 Testing on real hardware: if the changed or added code is used with the real hardware.
+
+Documentation: For any new feature, explain what it does and how to use it. Write the documentation in a relevant space (Github, Confluence, etc.).
