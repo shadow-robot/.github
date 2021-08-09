@@ -11,9 +11,10 @@ If the task is applicable to this pull request (see applicability criteria in br
 - [ ] Manually tested that added code works as intended (if any functional/runnable code is added).
 - [ ] Added automated tests (if a new class is added (Python or C++), interface of that class must be unit tested).
 ## Tested on
+- [ ] No tests required. (Only should be used for very specific circumstances, i.e. changing some documentation)
 - [ ] Tested on real hardware.
 - [ ] Tested on the simulation.
-- [ ] Tested by the CI/CD infrastructure .
+- [ ] Tested by the CI/CD infrastructure.
 ## Documentation
 - [ ] No documentation required to be added.
 - [ ] Added documentation (For any new feature, explain what it does and how to use it. Write the documentation in a relevant space, e.g. Github, Confluence, etc.)
