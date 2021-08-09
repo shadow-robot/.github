@@ -9,10 +9,9 @@ Before posting a PR ensure that from each of the below catagories **AT LEAST ONE
 ## Tests
 
 - [ ] No tests required to be added. (For small changes that will be tested by CI/CD infrastructure).
-- [ ] Added automated tests (if a new class is added (Python or C++), interface of that class must be unit tested).\
-Manually tested:
-- [ ] in simulation.
-- [ ] on hardware.
+- [ ] Added automated tests (if a new class is added (Python or C++), interface of that class must be unit tested).
+- [ ] Manually tested in simulation (if no hardware required to test the functionality).
+- [ ] Manually tested on hardware (if hardware specific or related).
 
 ## Documentation
 
