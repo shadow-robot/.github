@@ -4,9 +4,17 @@ Please explain the changes you made. Add pictures or videos to explain them bett
 
 ## Checklist
 
-If the task is applicable to this pull request (see applicability criteria in brackets), make sure it is completed before checking the corresponding box. Otherwise, tick the box right away. Make sure that **ALL** boxes are checked **BEFORE** the PR is merged.
+Before posting a PR ensure that from each of the below catagories **AT LEAST ONE BOX HAS BEEN CHECKED**. If more than one catagory is applicable then more can be checked. Also ensure that the proposed changes have been filled out with relevent information for reviewers.
 
-- [ ] Manually tested that added code works as intended (if any functional/runnable code is added).
+## Tests
+
+- [ ] No tests required to be added. (For small changes that will be tested by CI/CD infrastructure).
 - [ ] Added automated tests (if a new class is added (Python or C++), interface of that class must be unit tested).
-- [ ] Tested on real hardware (if the changed or added code is used with the real hardware).
-- [ ] Added documentation (For any new feature, explain what it does and how to use it. Write the documentation in a relevant space, e.g. Github, Confluence, etc.)
+- [ ] Manually tested in simulation (if simulation specific or no hardware required to test the functionality). 
+- [ ] Manually tested on hardware (if hardware specific or related).
+
+## Documentation
+
+- [ ] No documentation required to be added.
+- [ ] Added documentation (For any new feature, explain what it does and how to use it. Write the documentation in a relevant space, e.g. Github, Confluence, etc).
+- [ ] Updated documentation (For changes to pre-existing features mentioned in the documentation).
