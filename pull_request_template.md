@@ -4,12 +4,12 @@ Please explain the changes you made. Add pictures or videos to explain them bett
 
 ## Checklist
 
-Before posting a PR ensure that from each of the below catagories **AT LEAST ONE BOX HAS BEEN CHECKED**. If more than one catagory is applicable then more can be checked. Also ensure that the proposed changes have been filled out with relevent information for reviewers.
+Before posting a PR ensure that from each of the below categories **AT LEAST ONE BOX HAS BEEN CHECKED**. If more than one category is applicable then more can be checked. Also ensure that the proposed changes have been filled out with relevant information for reviewers.
 
 ## Tests
 
 - [ ] No tests required to be added. (For small changes that will be tested by CI/CD infrastructure).
-- [ ] Added automated tests (if a new class is added (Python or C++), interface of that class must be unit tested).
+- [ ] Added automated tests (if a new class is added (Python or C++), the interface of that class must be unit tested).
 - [ ] Manually tested in simulation (if simulation specific or no hardware required to test the functionality). 
 - [ ] Manually tested on hardware (if hardware specific or related).
 
