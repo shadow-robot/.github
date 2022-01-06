@@ -9,7 +9,7 @@ Before posting a PR ensure that from each of the below categories **AT LEAST ONE
 ## Tests
 
 - [ ] No tests required to be added. (For small changes that will be tested by CI/CD infrastructure).
-- [ ] Added automated tests (if a new class is added (Python or C++), the interface of that class must be unit tested).
+- [ ] Added/Modified automated and PhantomHand CI tests (if a new class is added (Python or C++), the interface of that class must be unit tested).
 - [ ] Manually tested in simulation (if simulation specific or no hardware required to test the functionality). 
 - [ ] Manually tested on hardware (if hardware specific or related).
 
